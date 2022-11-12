@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/yeahitsjan/pwx-rel/master/.meta/121122.png)
+![screenshot](https://raw.githubusercontent.com/yeahitsjan/pwx-rel/master/.meta/121122-1.png)
 *screenshot from 12 Nov '22*
 
 ![status](https://img.shields.io/badge/current--status-internal-orange) ![version](https://img.shields.io/badge/version-0.0.0-lightgrey)
