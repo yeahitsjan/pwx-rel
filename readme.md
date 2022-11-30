@@ -1,5 +1,5 @@
-![screenshot](https://raw.githubusercontent.com/yeahitsjan/pwx-rel/master/.meta/121122-1.png)
-*screenshot from 12 Nov '22*
+![screenrec](https://raw.githubusercontent.com/yeahitsjan/pwx-rel/master/.meta/screenrecord-301122.gif)
+*screen recording from 30 Nov '22*
 
 ![status](https://img.shields.io/badge/current--status-internal-orange?style=flat-square) ![version](https://img.shields.io/badge/version-0.0.0-lightgrey?style=flat-square)
 
